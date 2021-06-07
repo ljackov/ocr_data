@@ -1,55 +1,55 @@
 language1=English
-language1.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/eng.traineddata
+language1.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/eng.traineddata?raw=true
 language1.ocr.1.file.size=4113088
-language1.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/en-GB_kh0_sg.bin
+language1.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/en-GB_kh0_sg.bin?raw=true
 language1.tts.1.file.size=584436
-language1.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/en-GB_ta.bin
+language1.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/en-GB_ta.bin?raw=true
 language1.tts.2.file.size=412248
 
 language2=French
-language2.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/fra.traineddata
+language2.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/fra.traineddata?raw=true
 language2.ocr.1.file.size=1130365
-language2.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/fr-FR_nk0_sg.bin
+language2.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/fr-FR_nk0_sg.bin?raw=true
 language2.tts.1.file.size=833236
-language2.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/fr-FR_ta.bin
+language2.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/fr-FR_ta.bin?raw=true
 language2.tts.2.file.size=381936
 
 language3=Spanish
-language3.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/spa.traineddata
+language3.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/spa.traineddata?raw=true
 language3.ocr.1.file.size=2294433
-language3.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/es-ES_zl0_sg.bin
+language3.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/es-ES_zl0_sg.bin?raw=true
 language3.tts.1.file.size=605280
-language3.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/es-ES_ta.bin
+language3.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/es-ES_ta.bin?raw=true
 language3.tts.2.file.size=256744
 
 language4=Italian
-language4.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/ita.traineddata
+language4.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/ita.traineddata?raw=true
 language4.ocr.1.file.size=2701314
-language4.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/it-IT_cm0_sg.bin
+language4.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/it-IT_cm0_sg.bin?raw=true
 language4.tts.1.file.size=628268
-language4.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/it-IT_ta.bin
+language4.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/it-IT_ta.bin?raw=true
 language4.tts.2.file.size=252044
 
 language5=German
-language5.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/deu.traineddata
+language5.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/deu.traineddata?raw=true
 language5.ocr.1.file.size=1525436
-language5.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/de-DE_gl0_sg.bin
+language5.tts.1.file=https://github.com/ljackov/ocr_data/blob/main/de-DE_gl0_sg.bin?raw=true
 language5.tts.1.file.size=634996
-language5.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/de-DE_ta.bin
+language5.tts.2.file=https://github.com/ljackov/ocr_data/blob/main/de-DE_ta.bin?raw=true
 language5.tts.2.file.size=440732
  
 language6=Turkish
-language6.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/tur.traineddata
+language6.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/tur.traineddata?raw=true
 language6.ocr.1.file.size=4550554
  
 language7=Bulgarian
-language7.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/bul.traineddata
+language7.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/bul.traineddata?raw=true
 language7.ocr.1.file.size=1675212
 
 language8=Chinese-simp
-language8.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/chi_sim.traineddata
+language8.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/chi_sim.traineddata?raw=true
 language8.ocr.1.file.size=2469067
 
 language9=Chinese-trad
-language9.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/chi_tra.traineddata
+language9.ocr.1.file=https://github.com/ljackov/ocr_data/blob/main/chi_tra.traineddata?raw=true
 language9.ocr.1.file.size=2366553
