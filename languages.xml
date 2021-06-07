@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<languages>
+	<language id="eng" name="English">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/eng.traineddata" size="3225414" />
+		</ocr>
+	</language>
+	<language id="fra" name="French">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/fra.traineddata" size="3532199" />
+		</ocr>
+	</language>
+	<language id="spa" name="Spanish">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/spa.traineddata" size="2217846" />
+		</ocr>
+	</language>
+	<language id="ita" name="Italian">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/ita.traineddata" size="2513459" />
+		</ocr>
+	</language>
+	<language id="deu" name="German">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/deu.traineddata" size="2438081" />
+		</ocr>
+	</language>
+	<language id="tur" name="Turkish">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/tur.traineddata" size="8232595" />
+		</ocr>
+	</language>
+	<language id="bul" name="Bulgarian">
+		<tts>
+			<file location="" hash="" />
+		</tts>
+		<ocr>
+			<file location="http://www.skycode.com/lucho's/bul.traineddata" size="4066879" />
+		</ocr>
+	</language>
+</languages>
